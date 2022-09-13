@@ -30,8 +30,9 @@
   <li>Reporting bugs</li>
 </ul>
 <h2>Test case example</h2>
+<a href="https://github.com/kjankowska316/kjankowska316/blob/main/test_case.jpg">Test case - logging</a>
 <h2>Bug report example</h2>
-  
+<a href="https://github.com/kjankowska316/kjankowska316/blob/main/bug-report.png">Bug report - job offer</a>
 <!---
 kjankowska316/kjankowska316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

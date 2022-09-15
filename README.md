@@ -1,6 +1,6 @@
 <h1>Future software tester</h1>
 <h2>About me</h2>
-<p>My name is Katarzyna Jankowska and I'm a fresh psychology graduate who is taking her first steps into the IT world. I don't have commercial experience, but every day I'm gaining new knowledge from TestIO and Utest. I'm also improving my skills through various courses and workshops. I've tested every MrBuggy application and completed ISTQB-FL and many more courses on Udemy, so I know how to test in theory and practise. I'm precise, focused on details and determined. Thanks to studying psychology, effective communication and working with people are a piece of cake for me. If you give me a chance - you won't regret it. For sure.</p>
+<p>My name is Katarzyna Jankowska and I'm a fresh psychology graduate who is taking her first steps into the IT world. I don't have commercial experience, but every day I'm gaining new knowledge from TestIO and Utest. I'm also improving my skills through various courses and workshops. I've tested every MrBuggy application and completed ISTQB-FL and many more courses on Udemy, so I know how to test in theory and practise. From October I will be studying at the WSB Gdynia, field of study: "Software tester". I'm precise, focused on details and determined. Thanks to studying psychology, effective communication and working with people are a piece of cake for me. If you give me a chance - you won't regret it. For sure.</p>
 <h2>Studies</h2>
 <ul>
   <li>University of Gdansk - Psychology - Master's degree 2022</li>

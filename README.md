@@ -4,6 +4,7 @@
 <h2>Studies</h2>
 <ul>
   <li>University of Gdansk - Psychology - Master's degree 2022</li>
+  <li>WSB Gdynia - Software Tester (now)</li>
 </ul>
 <h2>Courses on Udemy</h2>
 <ul>
